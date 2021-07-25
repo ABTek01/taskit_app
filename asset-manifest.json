@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taskit_app/static/css/main.1319a923.chunk.css",
+    "main.js": "/taskit_app/static/js/main.8e18cbb3.chunk.js",
+    "main.js.map": "/taskit_app/static/js/main.8e18cbb3.chunk.js.map",
+    "runtime-main.js": "/taskit_app/static/js/runtime-main.f13d6a9e.js",
+    "runtime-main.js.map": "/taskit_app/static/js/runtime-main.f13d6a9e.js.map",
+    "static/js/2.4e1933db.chunk.js": "/taskit_app/static/js/2.4e1933db.chunk.js",
+    "static/js/2.4e1933db.chunk.js.map": "/taskit_app/static/js/2.4e1933db.chunk.js.map",
+    "index.html": "/taskit_app/index.html",
+    "static/css/main.1319a923.chunk.css.map": "/taskit_app/static/css/main.1319a923.chunk.css.map",
+    "static/js/2.4e1933db.chunk.js.LICENSE.txt": "/taskit_app/static/js/2.4e1933db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f13d6a9e.js",
+    "static/js/2.4e1933db.chunk.js",
+    "static/css/main.1319a923.chunk.css",
+    "static/js/main.8e18cbb3.chunk.js"
+  ]
+}
